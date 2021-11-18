@@ -1,5 +1,10 @@
 ## End points:
 
+### / (HATEOAS)
+
+GET https://gabrieljuliao-cities-api.herokuapp.com/ <br>
+Accept: application/json;charset=utf8;application/hal+json;charset=utf8;
+
 ### Country/Países
 
 GET https://gabrieljuliao-cities-api.herokuapp.com/country <br>
